@@ -19,10 +19,14 @@
 GET http://localhost:8080/order
 ```
 
+![order](https://i.imgur.com/2Oy5eir.png)
+
 ### Страница отображения данных заказа по UID
 ```http request
 GET http://localhost:8080/order?uid=b563feb7b2b84b6test
 ```
+
+![orderuid](https://i.imgur.com/CAA7bqz.png)
 
 ---
 
